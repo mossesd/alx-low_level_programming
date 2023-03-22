@@ -2,7 +2,7 @@
 
 /**
  * _abs - returns absolute value
- * @i - the number
+ * @i: the number
  * Return: always succes
  */
 
