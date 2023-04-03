@@ -1,5 +1,4 @@
 #include "main.h"
-#include "runner.h"
 
 /**
  * _memset - fills memory area with a constant bytes

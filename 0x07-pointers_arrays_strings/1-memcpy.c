@@ -1,5 +1,4 @@
 #include "main.h"
-#include "runner.h"
 
 /**
  * _memcpy - copies memory area
