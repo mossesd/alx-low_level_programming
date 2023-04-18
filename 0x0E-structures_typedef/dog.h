@@ -1,5 +1,6 @@
 /**
- * struct dog - structure that holds all the information of a dog
+ * struct dog - structure that holds all the 
+ * information of a dog
  * @name: the name of the dog
  * @age: the age of the dog
  * @owner: the owner of the dog
