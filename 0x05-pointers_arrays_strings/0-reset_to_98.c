@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include "runner.h"
 /**
  * reset_to_98 - reset the value using a pointer
  * @n: the value of the address
